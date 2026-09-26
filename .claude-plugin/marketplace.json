@@ -1,0 +1,16 @@
+{
+  "name": "claude-toolkit",
+  "description": "Personal collection of Claude Code plugins",
+  "owner": {
+    "name": "Michael Studenets"
+  },
+  "plugins": [
+    {
+      "name": "agent",
+      "description": "Spec → plan → implementation workflow: brainstorming, writing-plans, subagent-driven development, TDD, code review",
+      "version": "0.1.0",
+      "source": "./plugins/agent",
+      "category": "development"
+    }
+  ]
+}
