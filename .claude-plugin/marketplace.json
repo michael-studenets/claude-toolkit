@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "agent",
+      "name": "developer",
       "description": "Spec → plan → implementation workflow: brainstorming, writing-plans, subagent-driven development, TDD, code review",
       "version": "0.1.0",
-      "source": "./plugins/agent",
+      "source": "./plugins/developer",
       "category": "development"
     }
   ]
